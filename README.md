@@ -12,7 +12,7 @@ I implemented this system on my own, and this one works well on recognizing matr
 <hr></hr>
 
 # Result
-### Multi mathematical lines
+### Handwritten Mathematical Paragraph
 <h6>
 Image such as below is given. It contains handwritten multi mathematical  lines
 </h6>
