@@ -26,6 +26,7 @@
 <h5> line3 </h5>
 <img src ='./th_results/good/2.exponentials_intrusions/line2.jpg' width = 300px>
 <hr>
+
 ### 3. Tilted Exponentials & Line intrusions
 <h4> input_image </h4>
 <img src ='./th_results/good/3.Tillted_exponentials_intrusions/original.bmp' width = 400px>
@@ -37,6 +38,7 @@
 <h5> line3 </h5>
 <img src ='./th_results/good/3.Tillted_exponentials_intrusions/line2.jpg' width = 300px>
 <hr>
+
 ### 4. Bound lines
 <h4> input_image </h4>
 <img src ='./th_results/good/4.bound_lines/original.bmp' width = 400px>
