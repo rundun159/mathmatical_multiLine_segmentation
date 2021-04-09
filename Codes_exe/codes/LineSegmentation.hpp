@@ -86,7 +86,7 @@ private:
     vector<cv::Mat> sliced_img_v;
     void find_contours();
     check_partition * 
-    get_is_fraction(TH_Rect * now_rect);
+    fraction(TH_Rect * now_rect);
     void merge_lines();
 };
 class LineContainer{
