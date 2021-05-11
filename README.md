@@ -22,6 +22,17 @@ Image such as below is given. It contains handwritten multi mathematical  lines
 
 <img src=./Results/multi_lines.jpg title="TRIM_OFF_cun_waf" alt="TRIM_OFF_cun_waf"></img><br/>
 
+
+### Immediate
+
+<h6>
+As the below image, it first gets contours of all characters and assign each box to proper line.
+</h6><br />
+
+<img src=./Results/Immediate.png title="Immediate" alt="Immediate"></img><br/>
+
+
+
 ### Segmentation Result
 
 <h6>
